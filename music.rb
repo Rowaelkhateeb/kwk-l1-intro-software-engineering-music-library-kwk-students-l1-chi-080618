@@ -10,7 +10,7 @@ library = {
       :maroon_five => "Sugar"
     }
 
-def list_artists 
+def list_artists(library)
   return library.keys
 end 
 
