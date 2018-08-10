@@ -17,7 +17,7 @@ puts list_artists(library)
 
 
 
-def list_songs.(library)
+def list_songs(library)
   puts library.values
 end 
 puts list_songs(library)
