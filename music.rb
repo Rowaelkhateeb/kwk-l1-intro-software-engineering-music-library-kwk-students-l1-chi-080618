@@ -13,6 +13,7 @@ library = {
 def list_artists(library)
   return library.keys
 end 
+puts list_artists
 
 
 
