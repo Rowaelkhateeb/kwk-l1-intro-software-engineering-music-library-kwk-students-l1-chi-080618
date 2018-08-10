@@ -11,7 +11,7 @@ library = {
     }
 
 def list_artists 
-  return library 
+  return library.keys
 end 
 library
 
