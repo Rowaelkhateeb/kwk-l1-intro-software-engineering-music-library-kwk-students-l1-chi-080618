@@ -11,7 +11,7 @@ library = {
     }
 
 def list_artists(library)
-  print library.keys
+  puts library.keys
 end 
 puts list_artists(library)
 
