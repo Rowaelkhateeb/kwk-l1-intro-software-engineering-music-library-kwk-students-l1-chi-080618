@@ -17,8 +17,10 @@ puts list_artists(library)
 
 
 
-# def list_songs.each do
-
+def list_songs.(library)
+  puts library.values
+end 
+puts list_songs(library)
 
 
 #2. Define a method named `list_songs`. This method should use the `each_value` method to iterate over the music library hash and print out the name of the songs in the library.
