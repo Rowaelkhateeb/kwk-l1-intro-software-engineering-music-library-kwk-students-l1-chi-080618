@@ -13,7 +13,7 @@ library = {
 def list_artists 
   return library.keys
 end 
-library
+
 
 
 # def list_songs.each do
