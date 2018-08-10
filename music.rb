@@ -9,7 +9,6 @@ library = {
       :andy_grammer => "Honey I'm Good",
       :maroon_five => "Sugar"
     }
-  end
 
 def list_artists 
   return library 
